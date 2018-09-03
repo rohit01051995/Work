@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class ThirdProblem {
 
-    public static <bool> void main(String[] args)
+    public static void main(String[] args)
     {
 
 
